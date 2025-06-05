@@ -25,5 +25,5 @@ This portfolio includes use cases involving:
 | Cloud Platform         | Microsoft Azure (Data Factory, Databricks, Synapse, Key Vault, Blob Storage) |
 | Orchestration & Infra  | Azure Functions, Scheduling, CI/CD                                            |
 | Data Manipulation      | Pandas, SQL                                                                   |
-|------------------------|-------------------------------------------------------------------------------|
+
 
